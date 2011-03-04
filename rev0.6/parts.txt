@@ -1,0 +1,127 @@
+Partlist
+
+Exported from sanguinololu.brd at 2/15/2011 6:28:00 PM
+
+EAGLE Version 5.11.0 Copyright (c) 1988-2010 CadSoft
+
+Part     Value          Package                Library         Position (inch)       Orientation
+
+R2       100k           AXIAL-0.3              SparkFun        (1.05 1.35)           R0
+R3       100k           AXIAL-0.3              SparkFun        (1.85 1.35)           R0
+R4       100k           AXIAL-0.3              SparkFun        (2.65 1.35)           R0
+R5       100k           AXIAL-0.3              SparkFun        (3.45 1.35)           R0
+R9       100k           AXIAL-0.3              SparkFun        (3.05 1.05)           R0
+
+R6       10k            AXIAL-0.3              SparkFun        (0.65 1.05)           R0
+R12      10k            AXIAL-0.3              SparkFun        (0.65 0.53)           R0
+R14      10k            AXIAL-0.3              SparkFun        (1.75 0.25)           R180
+
+R1       1.5k           AXIAL-0.3              SparkFun        (3.395 1.425)         R180
+
+R7       1k             AXIAL-0.3              SparkFun        (1.25 1.05)           R180
+R8       1k             AXIAL-0.3              SparkFun        (1.65 1.05)           R0
+
+R10      4.7k           AXIAL-0.3              SparkFun        (3.34 0.55)           R90
+R11      4.7k           AXIAL-0.3              SparkFun        (3.44 0.55)           R270
+R13      4k7            AXIAL-0.3              SparkFun        (1.35 0.25)           R180
+
+
+
+
+
+
+C9       1000uF         CPOL-RADIAL-1000UF-25V SparkFun        (0.67 0.79)           R180
+
+C1       100u           CPOL-RADIAL-100UF-25V  SparkFun        (0.5 1.45)            R90
+C2       100u           CPOL-RADIAL-100UF-25V  SparkFun        (1.3 1.45)            R90
+C3       100u           CPOL-RADIAL-100UF-25V  SparkFun        (2.1 1.45)            R90
+C4       100u           CPOL-RADIAL-100UF-25V  SparkFun        (2.9 1.45)            R90
+
+C10      10uF           CPOL-RADIAL-10UF-25V   SparkFun        (3.6 0.68937)         R0
+C12      10uF           CPOL-RADIAL-10UF-25V   SparkFun        (3.6 0.45)            R0
+
+C13      4.7uF          CPOL-RADIAL-10UF-25V   SparkFun        (1.05 0.35)           R180
+
+
+
+
+C5       100nF          CAP-PTH-SMALL2         SparkFun        (2 1.05)              R180
+C6       100nf          CAP-PTH-SMALL2         SparkFun        (2.2 1.05)            R0
+C7       100nF          CAP-PTH-SMALL2         SparkFun        (1 1.03)              R180
+C8       100nF          CAP-PTH-SMALL2         SparkFun        (0.94 0.81)           R90
+C11      100nF          CAP-PTH-SMALL2         SparkFun        (0.94 0.55)           R90
+
+
+
+
+IC1      ATMEGA644-20PU DIL40                  atmel           (2.2 0.65)            R180
+
+IC2      FT232RL        SSOP28DB               SparkFun        (1.5 0.65)            MR270
+
+
+
+JP23     SCREW          SCREWTERMINAL-5MM-2    SparkFun        (0.1 0.6)             R0
+
+ATX4     12V            5566-4                 con-molex-2     (0.2 0.6)             R270
+
+CONN1    5v/12v         MOLEX-4PIN-VERTICAL    molex-harddrive (3.78937 1.6)         R90
+
+J1       USB            USB-B-PTH              SparkFun        (0.65 0.35)           R90
+
+
+
+vvv      ------         1x32-FEMALE
+vvv      ------         1x32-FEMALE
+ P1       POLOLU-X       POLOLU-ALLEGRO-PTH     pololu-allegro  (0.85 1.4)            R90
+ P2       POLOLU-Y       POLOLU-ALLEGRO-PTH     pololu-allegro  (1.65 1.4)            R90
+ P3       POLOLU-Z       POLOLU-ALLEGRO-PTH     pololu-allegro  (2.45 1.4)            R90
+ P4       POLOLU-E       POLOLU-ALLEGRO-PTH     pololu-allegro  (3.25 1.4)            R90
+
+
+JP2      12VPWR         MOLEX-1X2              SparkFun        (1.2 1.85)            R0
+JP4      12VPWR         MOLEX-1X2              SparkFun        (2 1.85)              R0
+JP6      12VPWR         MOLEX-1X2              SparkFun        (2 1.85)              R0
+
+JP1      MOT-X          MOLEX-1X4              SparkFun        (0.7 1.85)            R0
+JP3      MOT-Y          MOLEX-1X4              SparkFun        (1.5 1.85)            R0
+JP5      MOT-Z          MOLEX-1X4              SparkFun        (2.3 1.85)            R0
+JP7      MOT-E          MOLEX-1X4              SparkFun        (3.1 1.85)            R0
+JP8      HOTEND         MOLEX-1X4              SparkFun        (0.1 1.3)             R90
+JP21     HOTBED         MOLEX-1X4              SparkFun        (0.1 0.85)            R90
+
+JP26     X-STOP         MOLEX-1X3              SparkFun        (1.3 0.1)             R180
+JP27     Y-STOP         MOLEX-1X3              SparkFun        (1.65 0.1)            R180
+JP28     Z-STOP         MOLEX-1X3              SparkFun        (2 0.1)               R180
+
+JP29     M12PTH         1X12-FEMALE            SparkFun        (3.25 0.1)            R180
+
+
+JP25     USB2TTL        1X06                   SparkFun        (0.4 0.1)             R0
+
+
+JP9      X-MS1          1X02                   SparkFun        (0.6 1.25)            R0
+JP10     X-MS2          1X02                   SparkFun        (0.85 1.25)           R0
+JP11     X-MS3          1X02                   SparkFun        (1.1 1.25)            R0
+JP12     Y-MS1          1X02                   SparkFun        (1.4 1.25)            R0
+JP13     Y-MS2          1X02                   SparkFun        (1.65 1.25)           R0
+JP14     Y-MS3          1X02                   SparkFun        (1.9 1.25)            R0
+JP15     Z-MS1          1X02                   SparkFun        (2.2 1.25)            R0
+JP16     Z-MS2          1X02                   SparkFun        (2.45 1.25)           R0
+JP17     Z-MS3          1X02                   SparkFun        (2.7 1.25)            R0
+JP18     E-MS1          1X02                   SparkFun        (3 1.25)              R0
+JP19     E-MS2          1X02                   SparkFun        (3.25 1.25)           R0
+JP20     E-MS3          1X02                   SparkFun        (3.5 1.25)            R0
+JP22     E-THERM        1X02                   SparkFun        (3.83937 0.65)        R90
+JP24     B-THERM        1X02                   SparkFun        (3.83937 0.35)        R90
+
+SV1      ISP            2X3                    SparkFun        (3.6 0.2)             R180
+
+LED1     POWER          LED3MM                 SparkFun        (3.55 1.85)           R180
+
+Q1       RFP30N06LE     TO220V                 SparkFun        (0.35 1.45)           R90
+Q2       RFP30N06LE     TO220V                 SparkFun        (0.35 1)              R90
+
+Y1       16MHz 22pF     RESONATOR-PTH          SparkFun        (1.08 0.7)            R90
+
+S1       RESET          TACTILE-PTH            SparkFun        (3.47937 0.94937)     R180
+

@@ -1,0 +1,112 @@
+rev 0.7
+
+ATX power kit:
+ ATX4     12V ATX-4 POWER CONNECTOR
+ HDDPWR   5v/12v MOLEX HDD POWER CONNECTOR
+
+
+Screw terminal & VREG kit:
+ JP23     SCREW-5MM 2 Position
+ IC3      LM7805 5V Linear VREG
+ C15      0.33uF
+ C6       0.1uF 
+
+
+
+FTDI kit:
+ J1       USB TYPE-B 
+ C2       FT232RL SSOP
+ C13      4.7uF 25V Electrolytic
+
+ C8       0.1uF
+ C11      0.1uF
+ C7       0.1uF
+
+
+
+Base Sanguinololu:
+ S1       RESET BUTTON 6MMx6mm
+ Y1       16MHz 22pF Resonator
+ IC1      ATMEGA644P-20PU
+ LED1     POWER 3MM LED
+
+ Q1       RFP30N06LE N-MOSFET
+ Q2       RFP30N06LE N-MOSFET
+
+ C9       1000uF 50V Electrolytic
+ 
+ C1       100uf 50V Electrolytic
+ C2       100uf 50V Electrolytic
+ C3       100uf 50V Electrolytic
+ C4       100uf 50V Electrolytic
+
+ C10      10uF 25V Electrolytic
+ C12      10uF 25V Electrolytic
+
+ C5       0.1uF
+ C14      0.1uF
+
+
+ R2       100k
+ R3       100k
+ R4       100k
+ R5       100k
+ R9       100k
+
+ R6       10k 
+ R12      10k 
+
+ R10      4.7k
+ R11      4.7k
+
+ R1       1.5k
+
+ R7       1k  
+ R8       1k  
+
+
+ #ALL PINS ARE STANDARD 0.1" PITCH
+
+ Pololu sockets:
+  16 pin female header for X & Y power side
+  16 pin female header for Z & E power side
+  16 pin female header for X & Y logic side
+  16 pin female header for Z & E logic side
+
+
+MS pins (24 vertical only pins, three breakaway 10 pin strips, 6 leftover pins):
+   2 JP9      X-MS1
+   2 JP10     X-MS2
+   2 JP11     X-MS3
+   2 JP12     Y-MS1
+   2 JP13     Y-MS2
+
+   2 JP14     Y-MS3
+   2 JP15     Z-MS1
+   2 JP16     Z-MS2
+   2 JP17     Z-MS3
+   2 JP18     E-MS1
+
+   2 JP19     E-MS2
+   2 JP20     E-MS3
+
+
+vertical edge pins(43 pins: using leftover pins from MS, and four more breakaway 10 pin strips, 1 leftover pin)
+   4 JP3      MOT-Y
+   4 JP5      MOT-Z
+   2 JP22     E-THERM
+
+   4 JP8      HOTEND
+   4 JP21     HOTBED
+   2 JP2      12VPWR
+
+   4 JP1      MOT-X
+   4 JP7      MOT-E
+   2 JP24     B-THERM 
+
+   3 JP26     X-STOP
+   3 JP28     Z-STOP
+   3 JP27     Y-STOP
+     
+   2 JP4      12VPWR
+   2 JP6      12VPWR  
