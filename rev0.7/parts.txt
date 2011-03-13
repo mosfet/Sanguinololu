@@ -1,0 +1,112 @@
+Vreg kit
+  IC1       LM7805          
+  JP23     SCREW            5MM 2P
+  C5       0.33uF           ML CERAMIC
+  C6       0.1uF            ML CERAMIC
+
+Atx connector kit
+  ATX1     ATX-4VERTICAL    ATX-4VERTICAL
+  HDDPWR   5v/12v           MOLE DRIVEPWRVERTICAL
+
+Ftdi kit
+  IC100    FT232RL          FT232RLSSOP
+  J1       USB              USB PTH R/A
+  C16      4.7uF            POLARIZED 25V
+  C11      0.1uF            ML CERAMIC
+  C15      0.1uF            ML CERAMIC
+  C7       0.1uF            ML CERAMIC
+  C8       0.1uF            ML CERAMIC
+
+Core kit:
+  IC2      ATMEGA644-20PU   
+  IC2-2    DIP-40 OPEN FRAME SOCKET
+  
+  LED1     POWER            LED3MM
+  
+  Y1       16MHz 22pF       RESONATORPTH
+  
+  S1       RESET            TAC_SWITCHPTH
+  
+  Q1       RFP30N06LE       MOSFET-NCHANNELPTH2
+  Q2       RFP30N06LE       MOSFET-NCHANNELPTH2
+
+  electrolytic capacitors:
+  C12      1000uF           POLARIZED 35V
+  
+  C1       100uf            POLARIZED 35V
+  C2       100uf            POLARIZED 35V
+  C3       100uf            POLARIZED 35V
+  C4       100uf            POLARIZED 35V
+  
+  C9       10uF             POLARIZED 35V
+  C10      10uF             POLARIZED 35V
+  
+  ceramic capacitors:
+  C13      0.1uF            ML CERAMIC
+  C14      0.1uF            ML CERAMIC
+  
+  resistors:
+  R2       100k             
+  R3       100k             
+  R4       100k             
+  R5       100k             
+  R12      100k             
+  
+  R11      10k              
+  R6       10k              
+  
+  R9       4.7k             
+  R10      4.7k             
+  
+  R1       1.5k             
+  
+  R7       1k               
+  R8       1k               
+  
+  female headers - each requires qty two 8 pin female header:
+  P1       POLOLU-X         
+  P2       POLOLU-Y         
+  P3       POLOLU-Z         
+  P4       POLOLU-E         
+
+  male 4pin header - qty six:
+  JP1      MOT-X
+  JP3      MOT-Y
+  JP5      MOT-Z
+  JP7      MOT-E
+  JP8      HOTEND
+  JP21     HOTBED
+  
+  male 3pin header - qty three:
+  JP27     X-STOP
+  JP28     Y-STOP
+  JP29     Z-STOP
+  
+  male 2pin header - qty five:
+  JP22     E-THERM
+  JP24     B-THERM
+  JP2      12VPWR
+  JP4      12VPWR
+  JP6      12VPWR
+  
+  male 2pin VERTICAL ONLY header - qty twelve, also get qty twelve shunts:
+  JP9      X-MS1
+  JP10     X-MS2
+  JP11     X-MS3
+  JP12     Y-MS1
+  JP13     Y-MS2
+  JP14     Y-MS3
+  JP15     Z-MS1
+  JP16     Z-MS2
+  JP17     Z-MS3
+  JP18     E-MS1
+  JP19     E-MS2
+  JP20     E-MS3
+  
+  optional / no part footprints
+  SJ100    5v/12v SOLDERJUMPBER
+  JP26     USB2TTL 6 PIN 
+  U$24     EXPANSION 2x8 and 2x3 w/ PLATED-SCREW
+  U$17     PLATED-SCREW
+  U$37     PLATED-SCREW
+  U$38     PLATED-SCREW
