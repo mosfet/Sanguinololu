@@ -34,13 +34,13 @@ S1       RESET            TAC_SWITCHPTH             TACTILE-PTH
 Q1       RFP30N06LE       MOSFET-NCHANNELPTH2       TO220V                 
 Q2       RFP30N06LE       MOSFET-NCHANNELPTH2       TO220V                 
 
-C1       100uf            CAP_POLPTH1               CPOL-RADIAL-100UF-25V  
-C2       100uf            CAP_POLPTH1               CPOL-RADIAL-100UF-25V  
-C3       100uf            CAP_POLPTH1               CPOL-RADIAL-100UF-25V  
-C4       100uf            CAP_POLPTH1               CPOL-RADIAL-100UF-25V  
-C9       10uF             CAP_POLPTH2               CPOL-RADIAL-10UF-25V   
-C10      10uF             CAP_POLPTH2               CPOL-RADIAL-10UF-25V   
-C12      1000uF           CAP_POLPTH4               CPOL-RADIAL-1000UF-25V 
+C1       100uf            CAP_POLPTH1               CPOL-RADIAL-100UF-35V  
+C2       100uf            CAP_POLPTH1               CPOL-RADIAL-100UF-35V  
+C3       100uf            CAP_POLPTH1               CPOL-RADIAL-100UF-35V  
+C4       100uf            CAP_POLPTH1               CPOL-RADIAL-100UF-35V  
+C9       10uF             CAP_POLPTH2               CPOL-RADIAL-10UF-35V   
+C10      10uF             CAP_POLPTH2               CPOL-RADIAL-10UF-35V   
+C12      1000uF           CAP_POLPTH4               CPOL-RADIAL-1000UF-35V 
 C14      0.1uF            CAPPTH2                   CAP-PTH-SMALL2         
 C13      0.1uF            CAPPTH2                   CAP-PTH-SMALL2         
 
