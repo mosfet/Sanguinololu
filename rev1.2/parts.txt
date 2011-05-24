@@ -1,0 +1,61 @@
+-----------FTDI-----------
+C7       0.1uF            CAPPTH2                   CAP-PTH-SMALL2         
+C8       0.1uF            CAPPTH2                   CAP-PTH-SMALL2         
+C11      0.1uF            CAPPTH2                   CAP-PTH-SMALL2         
+C15      0.1uF            CAPPTH2                   CAP-PTH-SMALL2         
+C16      4.7uF            CAP_POLPTH2               CPOL-RADIAL-10UF-25V   
+IC100    FT232RL          FT232RLSSOP               SSOP28DB               
+J1       USB              USBPTH                    USB-B-PTH              
+
+
+-----------VREG-----------
+IC1       LM7805          VREG-NOGND                VREG-NOGND             vreg
+C5       0.33uF           CAPPTH2                   CAP-PTH-SMALL2         
+C6       0.1uF            CAPPTH2                   CAP-PTH-SMALL2         
+JP23     SCREW            M025MM                    SCREWTERMINAL-5MM-2    
+
+
+-----------ATX------------
+ATX1     ATX-4VERTICAL    ATX-4VERTICAL             MINIFITJR-4-VERTICAL   atx-power-supply
+HDDPWR   5v/12v           DRIVEPWRVERTICAL          HDD-VERTICAL           atx-power-supply
+
+
+-----------CORE-----------
+IC2      ATMEGA644-20PU   ATMEGA644-20PU            DIL40                  atmel
+DIP-40   SOCKET
+SHUNT    MS, QTY12
+MALE PIN  QTY70 (10x7)
+FEMALE PIN HEADER, 16pin, qty4
+
+
+LED1     POWER            LED3MM                    LED3MM                 
+Y1       16MHz 22pF       RESONATORPTH              RESONATOR-PTH          
+S1       RESET            TAC_SWITCHPTH             TACTILE-PTH            
+Q1       RFP30N06LE       MOSFET-NCHANNELPTH2       TO220V                 
+Q2       RFP30N06LE       MOSFET-NCHANNELPTH2       TO220V                 
+
+C1       100uf            CAP_POLPTH1               CPOL-RADIAL-100UF-35V  
+C2       100uf            CAP_POLPTH1               CPOL-RADIAL-100UF-35V  
+C3       100uf            CAP_POLPTH1               CPOL-RADIAL-100UF-35V  
+C4       100uf            CAP_POLPTH1               CPOL-RADIAL-100UF-35V  
+C9       10uF             CAP_POLPTH2               CPOL-RADIAL-10UF-35V   
+C10      10uF             CAP_POLPTH2               CPOL-RADIAL-10UF-35V   
+C12      1000uF           CAP_POLPTH4               CPOL-RADIAL-1000UF-35V 
+C14      0.1uF            CAPPTH2                   CAP-PTH-SMALL2         
+C13      0.1uF            CAPPTH2                   CAP-PTH-SMALL2         
+
+R1       1.5k             RESISTORPTH1              AXIAL-0.3              
+R2       100k             RESISTORPTH1              AXIAL-0.3              
+R3       100k             RESISTORPTH1              AXIAL-0.3              
+R4       100k             RESISTORPTH1              AXIAL-0.3              
+R5       100k             RESISTORPTH1              AXIAL-0.3              
+R6       10k              RESISTORPTH1              AXIAL-0.3              
+R7       1k               RESISTORPTH1              AXIAL-0.3              
+R8       1k               RESISTORPTH1              AXIAL-0.3              
+R9       4.7k             RESISTORPTH1              AXIAL-0.3              
+R10      4.7k             RESISTORPTH1              AXIAL-0.3              
+R11      10k              RESISTORPTH1              AXIAL-0.3              
+R12      100k             RESISTORPTH1              AXIAL-0.3              
+
+
+
