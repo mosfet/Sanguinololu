@@ -21,7 +21,7 @@ HDDPWR   5v/12v           DRIVEPWRVERTICAL          HDD-VERTICAL           atx-p
 
 
 -----------CORE-----------
-IC2      ATMEGA644-20PU   ATMEGA644-20PU            DIL40                  atmel
+IC2      ATMEGA644P-20PU   ATMEGA644P-20PU          DIL40                  atmel
 DIP-40   SOCKET
 SHUNT    MS, QTY12
 MALE PIN  QTY70 (10x7)
