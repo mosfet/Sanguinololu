@@ -1,0 +1,75 @@
+Partlist
+
+Exported from San1.3B2 Work.brd at 20-03-2014 21:55:24
+
+EAGLE Version 6.1.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value           Package              Library         Position (mm)         Orientation
+
+C1       100uf           PANASONIC_D          SparkFun        (12 46.6)             R180
+C2       100uf           PANASONIC_D          SparkFun        (32.3 46.6)           R180
+C3       100uf           PANASONIC_D          SparkFun        (52.6 46.6)           R180
+C4       100uf           PANASONIC_D          SparkFun        (72.9 46.6)           R180
+C5       10uF            C1206                REPRAP_ME       (83.345 37.04)        R270
+C6       100nF           0805                 SparkFun        (85.894 34.62)        R90
+C7       100nF           0805                 SparkFun        (35.3 16.55)          R90
+C8       100nF           0805                 SparkFun        (22.55 14.5)          R90
+C9       10uF            C1206                REPRAP_ME       (90.05 19.85)         R180
+C10      10uF            C1206                REPRAP_ME       (90.05 24.95)         R180
+C11      100nF           0805                 SparkFun        (30.1 21.65)          R180
+C13      100nF           0805                 SparkFun        (62.77 15.69)         R90
+C14      100nF           0805                 SparkFun        (70.8 24)             R180
+C15      100nF           0805                 SparkFun        (33.1 21.65)          R0
+C16      10uF            C1206                REPRAP_ME       (29.4 8.1)            R0
+C18      100uf           PANASONIC_D          SparkFun        (17.15 16.5)          R180
+IC1      V-REG+          TO252+EXTRA-PIN      REPRAP_ME       (93.2 35.55)          R270
+IC2      ATMEGA644A      TQFP44               atmel           (71.61464375 15.785353125) R180
+IC100    FT232RL         SSOP28DB             SparkFun        (28.885 15.75)        R180
+J1       USB             USB-B-PTH            SparkFun        (17 8.9)              R90
+J2                       ISP-HEADER           REPRAP_ME       (89.35 3.8)           R180
+J3       MA07-2          MA07-2               Header Male     (74.1 3.8)            R180
+JP1      MOT-X           MOLEX-1X4            SparkFun        (18.25 48.26)         R0
+JP2      MOT-X           MOLEX-1X4            SparkFun        (36 2.75)             R180
+JP3      MOT-Y           MOLEX-1X4            SparkFun        (38.57 48.26)         R0
+JP4      Y-STOP          MOLEX-1X4            SparkFun        (48.7 2.75)           R180
+JP5      MOT-Z           MOLEX-1X4            SparkFun        (58.89 48.26)         R0
+JP6      Z-STOP          MOLEX-1X4            SparkFun        (61.4 2.75)           R180
+JP7      MOT-E           MOLEX-1X4            SparkFun        (79.21 48.26)         R0
+JP8      HOTEND          MOLEX-1X4_NO_THERMAL REPRAP_ME       (1.74 34.29)          R90
+JP21     HOTBED          MOLEX-1X4_NO_THERMAL REPRAP_ME       (1.74 21.59)          R90
+JP22     E-THERM         1X02                 SparkFun        (98.26 22.86)         R90
+JP24     B-THERM         1X02                 SparkFun        (98.26 17.78)         R90
+JP30     MOT-Z           MOLEX-1X4            SparkFun        (58.89 45.72)         R0
+LED1     POWER           CHIP-LED0805         led             (91.275 48.06)        R90
+LED2     HOTEND          CHIP-LED0805         led             (8.8 33.3)            R90
+LED3     HOTBED          CHIP-LED0805         led             (8.8 20.6)            R90
+POLOLU-E POLOLU-E        POLOLU-ALLEGRO-PTH   pololu-allegro  (83.02 35.56)         R90
+POLOLU-X POLOLU-X        POLOLU-ALLEGRO-PTH   pololu-allegro  (22.06 35.56)         R90
+POLOLU-Y POLOLU-Y        POLOLU-ALLEGRO-PTH   pololu-allegro  (42.38 35.56)         R90
+POLOLU-Z POLOLU-Z        POLOLU-ALLEGRO-PTH   pololu-allegro  (62.7 35.56)          R90
+Q3                       AWSCR                REPRAP_ME       (82.68485 16.987434375) R270
+Q4       PH7030L         SOT669-NO-THERMAL    REPRAP_ME       (8.09 38.1)           R0
+Q5       PH7030L         SOT669-NO-THERMAL    REPRAP_ME       (8.09 25.4)           R0
+R1       1k              R0805                REPRAP_ME       (91.2 45.685)         R180
+R2       100k            R0805                REPRAP_ME       (15.7 34.4)           R90
+R3       100k            R0805                REPRAP_ME       (36.05 34.4)          R90
+R4       100k            R0805                REPRAP_ME       (56.35 34.4)          R90
+R5       100k            R0805                REPRAP_ME       (76.65 34.4)          R90
+R6       4.7K            R0805                REPRAP_ME       (11.6 37.8)           R90
+R7       100k            R0805                REPRAP_ME       (33.5 34.4)           R90
+R8       100k            R0805                REPRAP_ME       (53.8 34.4)           R90
+R9       4.7k            R0805                REPRAP_ME       (91.1 22.9)           R180
+R10      4.7k            R0805                REPRAP_ME       (91.1 17.8)           R180
+R11      4.7K            R0805                REPRAP_ME       (11.6 25.1)           R90
+R12      100k            R0805                REPRAP_ME       (88.55 16.75)         R90
+R13      1k              R0805                REPRAP_ME       (11.6 34.4)           R90
+R14      1k              R0805                REPRAP_ME       (11.6 21.7)           R90
+S1       RESET           TACTILE_SWITCH_TALL  printrbot       (93.5 11.4)           R180
+SJ1                      SJ-3                 REPRAP_ME       (18.25 25.9)          R180
+SJ2                      SJ-3                 REPRAP_ME       (38.55 25.9)          R180
+SJ3                      SJ-3                 REPRAP_ME       (58.9 25.9)           R180
+SJ4                      SJ-3                 REPRAP_ME       (79.2 25.9)           R180
+SJ5      SJ-1-1_OPEN     SJ-1-1_OPEN          REPRAP_ME       (84.65 11.4)          R270
+X1       MKDSN1,5/2-5,08 MKDSN1,5/2-5,08      con-phoenix-508 (6.6 13.3)            R270
